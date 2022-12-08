@@ -508,5 +508,340 @@
 		"id": 102,
 		"term": "average inventory",
 		"definition": "The average amount of inventory during a period of time. Since the amount reported in the Inventory account is the ending balance on one specific day, it is necessary to compute an average balance when relating this account to the cost of goods sold (which covers a period of time)."
-	}
+	},
+	{
+        "id": 103,
+        "term": "b",
+        "definition": "A symbol that indicates the variable cost rate and also the slope of a straight line. For example, in the equation of the straight line, y = a + bx, “b” represents the variable cost rate per unit of “x”."
+    },
+    {
+        "id": 104,
+        "term": "bad debts expense",
+        "definition": "This is an operating expense resulting from making sales on credit and not collecting the customers’ entire accounts receivable and bad debts expense balances."
+    },
+    {
+        "id": 105,
+        "term": "balance per bank",
+        "definition": "A phrase used in reconciling the bank statement. It refers to the ending balance shown on the bank statement."
+    },
+    {
+        "id": 106,
+        "term": "balance per books",
+        "definition": "The amount appearing in the general ledger. When reconciling the bank statement, the balance per books is the balance of the Cash account in the general ledger that pertains to the bank account."
+    },
+    {
+        "id": 107,
+        "term": "balance sheet",
+        "definition": "One of the main financial statements. The balance sheet reports the assets, liabilities, and owner’s (stockholders’) equity at a specific point in time, such as December 31. The balance sheet is also referred to as the Statement of Financial Position."
+    },
+    {
+        "id": 108,
+        "term": "balance sheet account",
+        "definition": "Asset, liability, and owner’s equity accounts. Also referred to as permanent or real accounts."
+    },
+    {
+        "id": 109,
+        "term": "bank balance",
+        "definition": "The amount in a bank account according to the bank’s records."
+    },
+    {
+        "id": 110,
+        "term": "bank errors",
+        "definition": "Errors made by the bank on a company’s bank account. These are usually infrequent but could include an incorrect amount of a check or deposit or a check or deposit recorded in the wrong account."
+    },
+    {
+        "id": 111,
+        "term": "bank overdraft",
+        "definition": "A negative balance in the bank’s records for the company’s checking account."
+    },
+    {
+        "id": 112,
+        "term": "bank rec",
+        "definition": "A shortened version of the term bank reconciliation or bank statement reconciliation."
+    },
+    {
+        "id": 113,
+        "term": "bank reconciliation",
+        "definition": "The process of comparing the amounts in the Cash account in the general ledger to the amounts appearing on the bank statement. The objective is to be certain that there is consistency between the amounts and that the company’s amounts are accurate and complete."
+    },
+    {
+        "id": 114,
+        "term": "bank service charge expense",
+        "definition": "This is an administrative expense which reports the fees incurred by a company for the expenses associated with its checking account transactions."
+    },
+    {
+        "id": 115,
+        "term": "bank statement",
+        "definition": "Usually refers to a statement from the bank showing the activity in a company’s checking account. The statement includes the deposits received by the bank, checks paid by the bank, bank service charge, and other amounts transferred into and out of the checking account."
+    },
+    {
+        "id": 116,
+        "term": "bank statement reconciliation",
+        "definition": "See bank reconciliation."
+    },
+    {
+        "id": 117,
+        "term": "basic accounting equation",
+        "definition": "See accounting equation."
+    },
+    {
+        "id": 118,
+        "term": "basis point",
+        "definition": "One hundredth (1/100) of a percentage point. In other words, one percentage point is equal to 100 basis points. The difference between an interest rate of 6.5% and 6.75% is 25 basis points."
+    },
+    {
+        "id": 119,
+        "term": "batch-level activities",
+        "definition": "Activities involving a batch of products—as opposed to individual items. An example of a batch activity is the setting up of a machine to produce a batch of 1,000 identical items."
+    },
+    {
+        "id": 120,
+        "term": "batch-level cost",
+        "definition": "A cost associated with a batch of items, but not directly traceable to an individual item within the batch. For example, the cost to set up a machine to run a batch of 5,000 items is a batch-level cost. This cost must then be allocated to the 5,000 items included in the batch."
+    },
+    {
+        "id": 121,
+        "term": "batch size",
+        "definition": "In activity-based costing, this refers to the number of items that will be produced after a machine has been setup."
+    },
+    {
+        "id": 122,
+        "term": "bearer bond",
+        "definition": "A bearer bond is a bond that is not registered in its owner’s name. The person holding the bond is presumed to be the owner of the bond. The interest on a bearer bond is received by clipping one of the dated interest coupons which are attached to the bond and presenting it to a bank for collection. This is the reason a bearer bond is also referred to as a coupon bond. Today, bearer bonds are almost nonexistent."
+    },
+    {
+        "id": 123,
+        "term": "Big Four",
+        "definition": "The four largest public accounting firms in the U.S.: Deloitte, Ernst & Young, KPMG, PricewaterhouseCoopers. Typically, these four firms perform the audits of the largest publicly-traded corporations."
+    },
+    {
+        "id": 124,
+        "term": "bill",
+        "definition": "An invoice or other document received from a vendor, supplier, etc. usually for goods or services received. Also a verb to indicate that a customer’s sales invoice should be prepared for goods or services."
+    },
+    {
+        "id": 125,
+        "term": "bill of materials",
+        "definition": "A listing of the materials included in a product. A bill of material could be thought of as a bakery’s recipe for producing one of its products."
+    },
+    {
+        "id": 126,
+        "term": "bill payable",
+        "definition": "An amount owed on bill or invoice from a vendor or supplier of goods or services."
+    },
+    {
+        "id": 127,
+        "term": "biweekly",
+        "definition": "Usually means every two weeks. For example, if an employee is paid every other Thursday, the employee is paid biweekly. The person paid biweekly will receive 26 paychecks per year. (People paid two times per month – on the 15th and on the last day of the month – are said to be paid semimonthly and will receive 24 paychecks per year.)"
+    },
+    {
+        "id": 128,
+        "term": "blue-collar worker",
+        "definition": "A term often used when referring to production workers and other workers who are paid with an hourly pay rate. These workers’ compensation is referred to as “wages” (as opposed to salaries)."
+    },
+    {
+        "id": 129,
+        "term": "board-designated restriction",
+        "definition": "An action by a nonprofit organization’s board of directors to earmark an asset for a specified purpose. Since this is not a donor-imposed restriction, the designated asset is classified and reported as part of unrestricted net assets."
+    },
+    {
+        "id": 130,
+        "term": "board of directors",
+        "definition": "Individuals elected by the common stockholders of a corporation to represent the stockholders and to establish the policies of the corporation. The board of directors appoints the officers of the corporation and declares dividends for the common and preferred stock."
+    },
+    {
+        "id": 131,
+        "term": "boards of accountancy",
+        "definition": "These agencies establish the educational requirements and the eligibility of candidates desiring to sit for the Uniform CPA Exam. There is a board of accountancy in each of the 50 U.S. states plus five other jurisdictions. Each board of accountancy also controls the licensing of certified public accountants (CPAs) within its jurisdiction."
+    },
+    {
+        "id": 132,
+        "term": "BOM",
+        "definition": "See bill of materials."
+    },
+    {
+        "id": 133,
+        "term": "bond",
+        "definition": "A formal written promise to pay interest every six months and the principal amount at maturity."
+    },
+    {
+        "id": 134,
+        "term": "bond call price",
+        "definition": "The price at which the holder of a bond must sell the bond to the issuer. For example, a corporation may have the right to redeem/buy back its bonds by paying the bondholder 110% of the bond’s face amount."
+    },
+    {
+        "id": 135,
+        "term": "bond coupon rate",
+        "definition": "The stated interest rate appearing on the face of the bond. Also referred to as the nominal rate or the stated interest rate."
+    },
+    {
+        "id": 136,
+        "term": "bond discount",
+        "definition": "See discount on bonds payable."
+    },
+    {
+        "id": 137,
+        "term": "bond indenture",
+        "definition": "A document that discloses various conditions and terms of the company’s bonds. It would include the call price, collateral, ramifications if interest is not paid, etc."
+    },
+    {
+        "id": 138,
+        "term": "bond interest expense",
+        "definition": "The amount of interest expense incurred during the time interval shown in the heading of the income statement that pertains to a company’s bonds payable. Bond interest expense also includes the amortization of the premium or discount on bonds payable and the amortization of the bond issue costs for the same period of time."
+    },
+    {
+        "id": 139,
+        "term": "bond interest rate",
+        "definition": "The interest rate stated on a bond. This is also referred to as the face interest rate, nominal interest rate, and coupon rate."
+    },
+    {
+        "id": 140,
+        "term": "bond issue costs",
+        "definition": "Bond Issue Costs is a contra liability account reported along with Bonds Payable. Bond Issue Costs include the professional fees and registration fees associated with the issuance of bonds. The amount in the account Bond Issue Costs will be amortized (systematically written off) to interest expense over the life of the bonds."
+    },
+    {
+        "id": 141,
+        "term": "bond premium",
+        "definition": "See premium on bonds payable."
+    },
+    {
+        "id": 142,
+        "term": "bond sinking fund",
+        "definition": "A restricted asset for the purpose of retiring a bond."
+    },
+    {
+        "id": 143,
+        "term": "bonds payable",
+        "definition": "Generally a long term liability account containing the face amount, par amount, or maturity amount of the bonds issued by a company that are outstanding as of the balance sheet date."
+    },
+    {
+        "id": 144,
+        "term": "book balance",
+        "definition": "The balance in a business record such as a general ledger account."
+    },
+    {
+        "id": 145,
+        "term": "book depreciation",
+        "definition": "The depreciation computed for financial reporting purposes—as opposed to income tax depreciation."
+    },
+    {
+        "id": 146,
+        "term": "book of original entry",
+        "definition": "Also known as a journal."
+    },
+    {
+        "id": 147,
+        "term": "book value",
+        "definition": "The book value of an asset is the amount of cost in its asset account less the accumulated depreciation applicable to the asset. The book value of a company is the amount of owner’s or stockholders’ equity. The book value of bonds payable is the combination of the accounts Bonds Payable and Discount on Bonds Payable or the combination of Bonds Payable and Premium on Bonds Payable."
+    },
+    {
+        "id": 148,
+        "term": "book value of a company",
+        "definition": "The amount of owner’s equity or stockholders’ equity reported on a company’s balance sheet. This is not an indication of the company’s fair market value."
+    },
+    {
+        "id": 149,
+        "term": "book value of an asset",
+        "definition": "he book value of an asset is the asset’s cost minus the accumulated depreciation since the asset was acquired. This net amount is not an indication of the asset’s fair market value. The book value of an asset is also referred to as the asset’s carrying value."
+    },
+    {
+        "id": 150,
+        "term": "book value per share of stock",
+        "definition": "A corporation’s total stockholders’ equity (excluding preferred stock) divided by the number of shares of common stock outstanding."
+    },
+    {
+        "id": 151,
+        "term": "bookkeeper",
+        "definition": "Usually a person without a four-year or five-year accounting degree employed to record routine financial transactions for smaller companies."
+    },
+    {
+        "id": 152,
+        "term": "bookkeeping",
+        "definition": "The recording of a company’s transactions into the accounts contained in the general ledger. It is usually associated with the accounting tasks prior to the preparation of the trial balance."
+    },
+    {
+        "id": 153,
+        "term": "books",
+        "definition": "A term to mean the company’s general ledger or accounting records."
+    },
+    {
+        "id": 154,
+        "term": "borrow",
+        "definition": "To receive money in exchange for a promise to repay the amount to the lender."
+    },
+    {
+        "id": 155,
+        "term": "borrower",
+        "definition": "The person or business that receives a loan from a bank or other lender."
+    },
+    {
+        "id": 156,
+        "term": "bottom line",
+        "definition": "In accounting this term means a company’s net income, which is the bottom line of the income statement."
+    },
+    {
+        "id": 157,
+        "term": "bounced check",
+        "definition": "See not sufficient funds (NSF) check."
+    },
+    {
+        "id": 158,
+        "term": "break-even analysis",
+        "definition": "Break Even Analysis in economics, business, and cost accounting refers to the point in which total cost and total revenue are equal."
+    },
+    {
+        "id": 159,
+        "term": "Break-even Point",
+        "definition": "Break-even point (BEP) is a term in accounting that refers to the situation where a company’s revenues and expenses were equal within a specific accounting period. It means that there were no net profits or no net losses for the company – it “broke even”. BEP may also refer to the revenues that are needed to be reached in order to compensate for the expenses incurred during a specific period."
+    },
+    {
+        "id": 160,
+        "term": "Budget",
+        "definition": "A budget is an estimation of revenue and expenses over a specified future period of time and is usually compiled and re-evaluated on a periodic basis."
+    },
+    {
+        "id": 161,
+        "term": "Budget Variance",
+        "definition": " A budget variance is a periodic measure used by governments, corporations, or individuals to quantify the difference between budgeted and actual figures for a particular accounting category. A favorable budget variance refers to positive variances or gains; an unfavorable budget variance describes negative variance, indicating losses or shortfalls. Budget variances occur because forecasters are unable to predict future costs and revenue with complete accuracy.\n\nBudget variances can occur broadly due to either controlled or uncontrollable factors. For instance, a poorly planned budget and labor costs are controllable factors. Uncontrollable factors are often external and arise from occurrences outside the company, such as a natural disaster."
+    },
+    {
+        "id": 162,
+        "term": "Budgetary Slack",
+        "definition": "Budgetary slack is a cushion created in a budget by management to increase the chances of the actual performance beating the budget. Budgetary slack can take one of two forms: an underestimate in the budget of the amount of income or revenue that will come in over a given amount of time, or an overestimate of the expenses that are to be paid out over the same time period. "
+    },
+    {
+        "id": 163,
+        "term": "budgeted balance sheet",
+        "definition":"A balance sheet which is a projection of the amounts at a future date. It should be based on the projected, budgeted transactions."
+    },
+    {
+        "id": 164,
+        "term": "budgeted capacity",
+        "definition": "The estimated volume in a future period that will be used for allocating indirect manufacturing costs."
+    },
+    {
+        "id": 165,
+        "term": "budgeted income statement",
+        "definition": "An estimated income statement for a future period of time that is based on projected or budgeted transactions."
+    },
+    {
+        "id": 166,
+        "term": "buildings",
+        "definition": "Buildings is a noncurrent or long-term asset account which shows the cost of a building (excluding the cost of the land). Buildings will be depreciated over their useful lives by debiting the income statement account Depreciation Expense and crediting the balance sheet account Accumulated Depreciation."
+    },
+    {
+        "id": 167,
+        "term": "Burden Rate",
+        "definition": " The burden rate consists of indirect costs associated with employees, or inventory, over and above gross compensation or payroll costs. Typical costs associated with the burden rate include payroll taxes, workers' compensation, health insurance, paid time off, training, travel expenses, vacation, and sick leave, pension contributions, and other benefits.\n\nIn short, the burden rate provides a truer picture of total absorbed costs than payroll costs alone. It should not be confused with an individual's or firm's tax burden."
+    },
+    {
+        "id": 168,
+        "term": "bx",
+        "definition": "In the equation of a straight line, y = a + bx, “bx” is the total variable cost resulting from the variable cost rate “b” multiplied times the quantity “x”."
+    },
+    {
+        "id": 169,
+        "term": "byproduct",
+        "definition": "A product that emerges with other products in a common process; however, this product does not have a significant value. (If it had significant value, it would be a joint product.)"
+    },
 ]
