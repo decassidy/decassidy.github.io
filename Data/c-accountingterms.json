@@ -843,10 +843,5 @@
         "id": 169,
         "term": "CVP",
         "definition": "See cost-volume-profit (CVP)."
-    },
-    {
-        "id": 170,
-        "term": "cycle counting",
-        "definition": "Spreading the physical counting of inventory throughout the year. For example, a company may physically count a different 10% of its inventory each month instead of counting 100% of its inventory once per year."
     }
 ]
