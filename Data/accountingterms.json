@@ -843,5 +843,855 @@
         "id": 169,
         "term": "byproduct",
         "definition": "A product that emerges with other products in a common process; however, this product does not have a significant value. (If it had significant value, it would be a joint product.)"
+    },
+    {
+        "id": 170,
+        "term": "Call Premium",
+        "definition": " Call premium is the dollar amount over the par value of a callable debt security that is given to holders when the security is redeemed early by the issuer.\n\nThe call premium is also called the redemption premium. In options terminology, the call premium is the amount that the purchaser of a call option must pay to the writer."
+    },
+    {
+        "id": 171,
+        "term": "Call Price",
+        "definition": "The call price (also known as 'redemption price') is the price at which the issuer of a callable security has the right to buy back that security from an investor or creditor. Call prices are commonly found in callable bonds or callable preferred stock. The call price is set at the time the security is issued and is known by reading the issue's prospectus."
+    },
+    {
+        "id": 172,
+        "term": "Callable Bond",
+        "definition": "An American callable bond, also known as continuously callable, is a bond that an issuer can redeem at any time prior to its maturity. Usually, a premium is paid to the bondholder when the bond is called. A callable bond is also called a redeemable bond since the issuer can redeem it early."
+    },
+    {
+        "id": 173,
+        "term": "Callable Preferred Stock",
+        "definition": "Callable preferred stock is a type of preferred stock that the issuer has the right to call in or redeem at a pre-set price after a defined date. Callable preferred stock terms, such as the call price, the date after which it can be called, and the call premium (if any), are all defined in the prospectus and cannot be changed later."
+    },
+    {
+        "id": 174,
+        "term": "Capital",
+        "definition": " Capital is a broad term that can describe anything that confers value or benefit to its owners, such as a factory and its machinery, intellectual property like patents, or the financial assets of a business or an individual. While money itself may be construed as capital, capital is more often associated with cash that is being put to work for productive or investment purposes.\n\nIn general, capital is a critical component of running a business from day to day and financing its future growth. Business capital may derive from the operations of the business or be raised from debt or equity financing. When budgeting, businesses of all kinds typically focus on three types of capital: working capital, equity capital, and debt capital. A business in the financial industry identifies trading capital as a fourth component."
+    },
+    {
+        "id": 175,
+        "term": "capital budgeting",
+        "definition": " Capital budgeting involves choosing projects that add value to a company. The capital budgeting process can involve almost anything including acquiring land or purchasing fixed assets like a new truck or machinery.\n\nCorporations are typically required, or at least recommended, to undertake those projects that will increase profitability and thus enhance shareholders' wealth.\n\nHowever, the rate of return deemed acceptable or unacceptable is influenced by other factors specific to the company as well as the project.\n\nFor example, a social or charitable project is often not approved based on the rate of return, but more on the desire of a business to foster goodwill and contribute back to its community. "
+    },
+    {
+        "id": 176,
+        "term": "Capital Expenditures",
+        "definition": "Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment. CapEx is often used to undertake new projects or investments by a company. Making capital expenditures on fixed assets can include repairing a roof (if the useful life of the roof is extended), purchasing a piece of equipment, or building a new factory. This type of financial outlay is made by companies to increase the scope of their operations or add some future economic benefit to the operation."
+    },
+    {
+        "id": 177,
+        "term": "Capital Lease",
+        "definition": "A capital lease is a contract entitling a renter to the temporary use of an asset and has the economic characteristics of asset ownership for accounting purposes."
+    },
+    {
+        "id": 178,
+        "term": "capital maintenance approach in determining net income",
+        "definition": "Under this method, net income is determined by analyzing the change in owner’s equity. The alternative is the transaction approach in which each transaction is recorded, sorted and stored."
+    },
+    {
+        "id": 179,
+        "term": "capital maintenance approach to net income",
+        "definition": "A measurement of net income arrived at by comparing the amount of total equity at the end of a period to the amount of total equity at the beginning of the period. For example, if a business had $5 million of equity at the end of the year, but had only $1 million at the beginning of the year, the government could conclude that they earned $4 million during the year. This method is in contrast to the transaction approach which computes net income by subtracting the expense transactions from the revenue transactions."
+    },
+    {
+        "id": 180,
+        "term": "capital market",
+        "definition": "A structured market for trading stocks and bonds such as the New York Stock Exchange or NASDAQ.\n\nCapital market can also include less structured markets such as private placements."
+    },
+    {
+        "id": 181,
+        "term": "capital stock",
+        "definition": "Capital stock is the amount of common and preferred shares that a company is authorized to issue, according to its corporate charter. Capital stock can only be issued by the company and is the maximum number of shares that can ever be outstanding. The amount is listed on the balance sheet in the company's shareholders' equity section."
+    },
+    {
+        "id": 182,
+        "term": "capitalize",
+        "definition": "To capitalize is to record a cost or expense on the balance sheet for the purposes of delaying full recognition of the expense. In general, capitalizing expenses is beneficial as companies acquiring new assets with long-term lifespans can amortize or depreciate the costs. This process is known as capitalization."
+    },
+    {
+        "id": 183,
+        "term": "carrying value/amount",
+        "definition": "Carrying value is an accounting measure of value in which the value of an asset or company is based on the figures in the respective company's balance sheet. For physical assets, such as machinery or computer hardware, carrying cost is calculated as (original cost - accumulated depreciation). If a company purchases a patent or some other intellectual property item, then the formula for carrying value is (original cost - amortization expense)."
+    },
+    {
+        "id": 184,
+        "term": "Carrying Costs",
+        "definition": "Carrying costs, also known as holding costs and inventory carrying costs, are the costs a business pays for holding inventory in stock. A business can incur a variety of carrying costs, including taxes, insurance, employee costs, depreciation, the cost of keeping items in storage, the cost of replacing perishable items, and opportunity costs. Even the cost of capital that helps to generate income for the business is a carrying cost.\n\nCarrying costs are also sometimes referred to as the carrying costs of inventory. A company pays various costs over time for holding and storing inventory before it is sold and shipped to customers. Businesses calculate these costs to evaluate the level of profit they can reasonably expect on their current inventory. It is also useful in determining whether a company should increase or decrease the production of goods. By knowing its carrying costs, a business can stay on top of expenses and continue to generate a steady income stream.\n\nOpportunity costs are another kind of carrying cost. These costs represent what a business owner sacrifices when choosing one option over another. Although opportunity costs are unseen and intangible, they can have a significant impact on a company's profitability."
+    },
+    {
+        "id": 185,
+        "term": "Carrying Value",
+        "definition": "Carrying value is an accounting measure of value in which the value of an asset or company is based on the figures in the respective company's balance sheet. For physical assets, such as machinery or computer hardware, carrying cost is calculated as (original cost - accumulated depreciation). If a company purchases a patent or some other intellectual property item, then the formula for carrying value is (original cost - amortization expense)."
+    },
+    {
+        "id": 186,
+        "term": "Cash",
+        "definition": "A current asset account which includes currency, coins, checking accounts, and undeposited checks received from customers. The amounts must be unrestricted. (Restricted cash should be recorded in a different account.)"
+    },
+    {
+        "id": 187,
+        "term": "Cash Account",
+        "definition": " A cash account with a brokerage firm requires that any securities transactions be payable in full from funds in the account at the time of the settlement. Short selling and buying on margin are thus prohibited in this type of account. The Federal Reserve's Regulation T governs cash accounts and the purchase of securities on margin. This regulation gives investors two business days to pay for security. It's known as T+2.\n\nIn accounting, a cash account, or cash book, may refer to a ledger in which all cash transactions are recorded. The cash account includes both the cash receipts journal and the cash payment journal."
+    },
+    {
+        "id": 188,
+        "term": "Cash and Cash Equivalents (CCE)",
+        "definition": "Cash and cash equivalents refers to the line item on the balance sheet that reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days. However, oftentimes cash equivalents do not include equity or stock holdings because they can fluctuate in value."
+    },
+    {
+        "id": 189,
+        "term": "cash basis of accounting",
+        "definition": "Under this method, revenue is reported on the income statement only when cash is received. Expenses are recorded only when cash is paid out. The cash method is typically used by small businesses and for personal finances."
+    },
+    {
+        "id": 190,
+        "term": "Cash Discount",
+        "definition": "Cash discounts refer to an incentive that a seller offers to a buyer in return for paying a bill before the scheduled due date. In a cash discount, the seller will usually reduce the amount that the buyer owes by either a small percentage or a set dollar amount."
+    },
+    {
+        "id": 191,
+        "term": "Cash Flow",
+        "definition": " The term cash flow refers to the net amount of cash and cash equivalents being transferred in and out of a company. Cash received represents inflows, while money spent represents outflows.\n\nA company’s ability to create value for shareholders is fundamentally determined by its ability to generate positive cash flows or, more specifically, to maximize long-term free cash flow (CFC). FCF is the cash generated by a company from its normal business operations after subtracting any money spent on capital expenditures (CapEx)."
+    },
+    {
+        "id": 192,
+        "term": "Cash Flow Net of Tax",
+        "definition": "The cash amounts received after deducting the related income taxes and also the cash amounts paid after deducting the cash saved when the amounts are income tax deductible."
+    },
+    {
+        "id": 193,
+        "term": "Cash Flow Statement",
+        "definition": " A cash flow statement is a financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources. It also includes all cash outflows that pay for business activities and investments during a given period.\n\n A company's financial statements offer investors and analysts a portrait of all the transactions that go through the business, where every transaction contributes to its success. The cash flow statement is believed to be the most intuitive of all the financial statements because it follows the cash made by the business in three main ways—through operations, investment, and financing. The sum of these three segments is called net cash flow.\n\nThese three different sections of the cash flow statement can help investors determine the value of a company's stock or the company as a whole. "
+    },
+    {
+        "id": 194,
+        "term": "Cash Flow From Financing Activities (CFF) Formula & Calculations",
+        "definition": "Cash flow from financing activities (CFF) is a section of a company’s cash flow statement, which shows the net flows of cash that are used to fund the company. Financing activities include transactions involving debt, equity, and dividends.\n\nCash flow from financing activities provides investors with insight into a company’s financial strength and how well a company's capital structure is managed.\n\n Investors and analyst will use the following formula and calculation to determine if a business is on sound financial footing.\n\nCFF = CED − (CD + RP)\n\nwhere:\nCED = Cash in flows from issuing equity or debt\n\nCD = Cash paid as dividends\n\nRP = Repurchase of debt and equity"
+    },
+    {
+        "id": 195,
+        "term": "Cash Flow From Operating Activities (CFO)",
+        "definition": " Cash flow from operating activities (CFO) indicates the amount of money a company brings in from its ongoing, regular business activities, such as manufacturing and selling goods or providing a service to customers. It is the first section depicted on a company's cash flow statement.\n\nCash flow from operating activities does not include long-term capital expenditures or investment revenue and expense. CFO focuses only on the core business, and is also known as operating cash flow (OCF) or net cash from operating activities. "
+    },
+    {
+        "id": 196,
+        "term": "cash method of accounting",
+        "definition": "Under this method, revenue is reported on the income statement only when cash is received. Expenses are recorded only when cash is paid out. The cash method is typically used by small businesses and for personal finances.\n\n The key advantage of the cash method is its simplicity—it only accounts for cash paid or received. Tracking the cash flow of a company is also easier.\n\nIt's beneficial to sole proprietorships and small businesses because, most likely, it won't require added staff (and the related expenses) to use.\n\nHowever, the cash basis method might overstate the health of a company that is cash-rich. That's because it doesn't record accounts payables that might exceed the cash on the books and the company's current revenue stream.\n\nAs a result, an investor might conclude the company is making a profit when, in reality, the company might be facing financial difficulties.\n\nThe cash basis method is not acceptable under GAAP."
+    },
+    {
+        "id": 197,
+        "term": "cash realizable value",
+        "definition": "See net realizable value."
+    },
+    {
+        "id": 198,
+        "term": "cash receipt",
+        "definition": "The collection of money (currency, coins, checks). Not to be confused with revenues."
+    },
+    {
+        "id": 199,
+        "term": "cash receipts journal",
+        "definition": "A special journal (or specialized journal) used to record money received. In a manual system this will allow one entry to the Cash account for the month (or shorter periods) instead of debiting the Cash account for every receipt."
+    },
+    {
+        "id": 200,
+        "term": "cash short and over",
+        "definition": "A miscellaneous expense account used to record the difference between the amount of cash needed to replenish a petty cash fund and the amount of petty cash receipts at the time the petty cash fund is replenished."
+    },
+    {
+        "id": 201,
+        "term": "cash surrender value (CSV)",
+        "definition": "The amount of cash that could be received if a whole life insurance policy were canceled."
+    },
+    {
+        "id": 202,
+        "term": "cashier’s check",
+        "definition": "A check drawn on a bank. A cashier’s check leaves no doubt that the funds represented by the check are real. A bank money order or a certified check would also assure the payee that the funds are in the bank."
+    },
+    {
+        "id": 203,
+        "term": "CD",
+        "definition": "See certificate of deposit."
+    },
+    {
+        "id": 204,
+        "term": "CEO",
+        "definition": "See chief executive officer."
+    },
+    {
+        "id": 205,
+        "term": "certificate of deposit",
+        "definition": "Also known as a CD. A bank time deposit (savings deposit) that cannot be withdrawn until a specified date. For example, a CD might mature in 6, 9, 12, or 18 months. If the amount deposited in a CD needs to be withdrawn prior to its maturity date, a penalty is assessed by the bank."
+    },
+    {
+        "id": 206,
+        "term": "certified management accountant",
+        "definition": "A professional certification awarded to an accountant who has successfully completed the CMA Exam and has achieved the required work experience. The certified management accountant is recognized as a person with a strong proficiency in both management and financial accounting."
+    },
+    {
+        "id": 207,
+        "term": "certified public accountant",
+        "definition": "A designation awarded by one of 50 U.S. states or five jurisdictions to a college graduate who has passed the rigorous Uniform CPA Exam and has met the required work experience."
+    },
+    {
+        "id": 208,
+        "term": "CFO",
+        "definition": "See chief financial officer."
+    },
+    {
+        "id": 209,
+        "term": "change in accounting estimate",
+        "definition": "Accounting estimates include the estimated salvage value and the estimated useful life of depreciable assets, estimated percentage of bad debts expense, estimated percentage of units to be repaired or replaced during a warranty period, and routine estimates of monthly expenses for utilities and other expenses. When a change is needed to one of these estimates, the change can affect the current and future periods only. Previous periods are not restated for changes in estimates. (Corrections of errors require a restatement of a prior period amount.)"
+    },
+    {
+        "id": 210,
+        "term": "change in net assets",
+        "definition": "The “bottom line” on the statement of activities. The change in net assets results from revenues, expenses, and the release of assets from restrictions. It is computed for an organization’s three classes of net assets as well as for total net assets during the period appearing in the heading of the statement of activities."
+    },
+    {
+        "id": 211,
+        "term": "chart of accounts",
+        "definition": "A listing of the accounts available in the accounting system in which to record entries. The chart of accounts consists of balance sheet accounts (assets, liabilities, stockholders’ equity) and income statement accounts (revenues, expenses, gains, losses). The chart of accounts can be expanded and tailored to reflect the operations of the company. To learn more, see Explanation of Chart of Accounts."
+    },
+    {
+        "id": 212,
+        "term": "checkbook",
+        "definition": "The record of checks issued or written, deposits, bank charges, bank credits and the resulting balance. Also referred to as the check register."
+    },
+    {
+        "id": 213,
+        "term": "checking account",
+        "definition": "The bank account on which checks are written or drawn. A bank refers to checking accounts as demand deposits."
+    },
+    {
+        "id": 214,
+        "term": "check printing charges",
+        "definition": "A fee for the printing of checks ordered by a company. Often the amount is deducted automatically from a company’s checking account by the company that printed the checks."
+    },
+    {
+        "id": 215,
+        "term": "cheque",
+        "definition": "Another name for check."
+    },
+    {
+        "id": 216,
+        "term": "chief executive officer (CEO)",
+        "definition": "Usually the top ranking officer of the corporation who is charged with executing the policies set by the board of directors."
+    },
+    {
+        "id": 217,
+        "term": "chief financial officer (CFO)",
+        "definition": "The top ranking financial person in the corporation."
+    },
+    {
+        "id": 218,
+        "term": "chief operating officer (COO)",
+        "definition": "A top ranking corporation official usually reporting to the chief executive officer and responsible for the operations of the corporation."
+    },
+    {
+        "id": 219,
+        "term": "Circular E",
+        "definition": "A publication by the U.S. Internal Revenue Service (IRS) to assist employers with federal payroll taxes. The complete title of the publication is Publication 15 (Circular E), Employer’s Tax Guide."
+    },
+    {
+        "id": 220,
+        "term": "classified balance sheet",
+        "definition": "A balance sheet with classifications (groupings or categories) such as current assets, property plant and equipment, current liabilities, long term liabilities, etc. To learn more, see Explanation of Balance Sheet."
+    },
+    {
+        "id": 221,
+        "term": "clear",
+        "definition": "See cleared."
+    },
+    {
+        "id": 222,
+        "term": "cleared",
+        "definition": "A term used to describe checks written by a company that have been received and paid by the bank on which they were drawn or written. The check number and amount will appear on the company’s checking account statement."
+    },
+    {
+        "id": 223,
+        "term": "clearing account",
+        "definition": "A general ledger account which serves to summarize similar transactions. For example, all of the closing entries involving operating expenses might be posted to an operating expense clearing (or summary) account."
+    },
+    {
+        "id": 224,
+        "term": "closely-held corporation",
+        "definition": "A corporation with a limited number of stockholders and whose stock is usually not publicly traded."
+    },
+    {
+        "id": 225,
+        "term": "closing entries",
+        "definition": "These journal entries are made after the financial statements have been prepared at the end of the accounting year. Most of the closing entries involve the income statement accounts (revenues, expenses, gains, losses, and summary/clearing accounts) whose balances will be transferred to the owner’s capital account or the corporation’s retained earnings account. A closing entry also transfers the owner’s drawing account (a temporary balance sheet account) balance to the owner’s capital account. The closing entries will mean that the temporary accounts (income statement accounts and drawing account) will start the new accounting year with zero balances."
+    },
+    {
+        "id": 226,
+        "term": "CMA Exam",
+        "definition": "The Certified Management Accountant (CMA) Exam is a 13-hour, four-part exam on business analysis, management accounting and reporting, strategic management, and business application. The exam is administered through IMA, the acronym for the Institute of Management Accountants."
+    },
+    {
+        "id": 227,
+        "term": "coefficient of correlation",
+        "definition": "n regression analysis this is a statistic designated as r and ranging from -1 to +1. It indicates the percentage of correlation between the dependent variable and the independent variable(s). When this statistic is squared it produces the coefficient of determination, which indicates the percentage change in the dependent variable that is explained by the change in the independent variable(s). Correlation does not necessarily mean there is a cause-and-effect relationship."
+    },
+    {
+        "id": 228,
+        "term": "coefficient of determination",
+        "definition": "In regression analysis this is a statistic (designated as r-squared) indicating the percentage of the change occurring in the dependent variable that is explained by the change in the independent variable(s). The percent change does not necessarily mean there is a cause-and-effect relationship."
+    },
+    {
+        "id": 229,
+        "term": "COGS",
+        "definition": "The acronym for cost of goods sold."
+    },
+    {
+        "id": 230,
+        "term": "collection period",
+        "definition": "The average time for a company’s accounts receivable to be collected. See days sales in accounts receivable."
+    },
+    {
+        "id": 231,
+        "term": "commissions expense",
+        "definition": "Under the accrual basis of accounting this income statement account reports the amount of commissions expense that pertains to the revenues earned by the company during the accounting period shown in the heading of the income statement."
+    },
+    {
+        "id": 232,
+        "term": "commitments",
+        "definition": "Commitments are items that are not reported as liabilities as of the balance sheet date. Some of these items are reported in the notes to the financial statements. Examples include noncancelable contracts to rent space in the future or to purchase items at specified prices."
+    },
+    {
+        "id": 233,
+        "term": "common costs",
+        "definition": "Costs that are common to several products, processes, activities, departments, territories, etc. Often common costs are subsequently allocated to each of the joint products, joint processes, etc. in order to determine the cost of each."
+    },
+    {
+        "id": 234,
+        "term": "common-size balance sheet",
+        "definition": "A company’s balance sheet that shows each item’s amount after it has been divided by the amount of total assets. In other words, current assets will be shown as a percentage of total assets. This will allow comparisons between companies of different size."
+    },
+    {
+        "id": 235,
+        "term": "common-size financial statement",
+        "definition": "See common-size balance sheet and common-size income statement."
+    },
+    {
+        "id": 236,
+        "term": "common-size income statement",
+        "definition": "A company’s income statement which reports each item as a percentage of net sales."
+    },
+    {
+        "id": 237,
+        "term": "common stock",
+        "definition": "The type of stock that is present at every corporation. (Some corporations have preferred stock in addition to their common stock.) Shares of common stock provide evidence of ownership in a corporation. Holders of common stock elect the corporation’s directors and share in the distribution of profits of the company via dividends. If the corporation were to liquidate, the secured lenders would be paid first, followed by unsecured lenders, preferred stockholders (if any), and lastly the common stockholders."
+    },
+    {
+        "id": 238,
+        "term": "common stock account",
+        "definition": "The stockholders’ equity account that reports the par or stated value of the issued shares of common stock. If the common stock does not have a par or stated value, this account will report the amount received when the shares of common stock were issued."
+    },
+    {
+        "id": 239,
+        "term": "common stock dividend distributable",
+        "definition": "A cash dividend that has been declared by the board of directors, but not yet paid."
+    },
+    {
+        "id": 240,
+        "term": "comparability",
+        "definition": "A quality of accounting information that facilitates the comparison of financial reporting of one company to the financial reporting of another company."
+    },
+    {
+        "id": 241,
+        "term": "comparative balance sheet",
+        "definition": "A balance sheet with at least two columns of amounts. The column of amounts that is closest to the words will be the most recent amounts. The column furthest from the words will contain the oldest amounts. The older amounts provide a reference point from which to make comparisons."
+    },
+    {
+        "id": 242,
+        "term": "comparative financial statements",
+        "definition": "Financial statements that show more than the current year’s amounts. For example, it is generally accepted that a corporation’s income statement will show the most recent three years of results. This provides the reader with two years of past amounts as a frame of reference for the most recent year. Comparative balance sheets typically show the most recent two years."
+    },
+    {
+        "id": 243,
+        "term": "comparative income statement",
+        "definition": "An income statement with at least two columns of amounts. The column of amounts that is closest to the words will contain the amounts for the most recent period of time. The columns furthest from the words will be the amounts from older periods of time. The older amounts provide a frame of reference for understanding the recent amounts."
+    },
+    {
+        "id": 244,
+        "term": "compensated absences",
+        "definition": "A term used in accounting that refers to employees’ time off with pay for vacations, holidays, and sick days. Companies that are obligated to pay for these days off are required by thematching principle to record the expense for these fringe benefits when the employees are working, since the benefits are a part of the employees’ compensation.\n\nThe expense is recorded each accounting period that an employee works by debiting expense (fringe benefit expense, compensated absences expense, etc.) and crediting a liability account (fringe benefits payable, compensated absences payable, etc.) When the employees actually take time off, the liability account is debited instead of an expense account."
+    },
+    {
+        "id": 245,
+        "term": "compensating balances",
+        "definition": "A bank account balance that a corporation agrees to maintain with a current or potential lender. For example, a corporation may agree to keep $1 million in its checking account at a bank in exchange for the bank agreeing to lend up to $10 million to the corporation at 1% below the prime lending rate. At a minimum, compensating balances must be disclosed in the notes to the corporation’s financial statements."
+    },
+    {
+        "id": 246,
+        "term": "compilation",
+        "definition": "Often referred to as write-up work, a compilation refers to financial statements prepared by an accountant without reviewing or auditing the amounts. Often the accountant merely takes a client’s amounts and presents them in the income statement and balance sheet format and does not provide any assurances regarding the amounts."
+    },
+    {
+        "id": 247,
+        "term": "compiled financial statements",
+        "definition": "Financial statements prepared by an accountant based on the amounts provided by a client. The accountant does not review or audit the amounts provided and therefore does not provide any assurances regarding the validity of the amounts."
+    },
+    {
+        "id": 248,
+        "term": "compound interest",
+        "definition": "Interest on interest. For example, if $1,000 is deposited in an account earning interest of 6% per year the account will earn $60 in the first year. In year two the account balance will earn $63.60 (not $60.00) because 6% interest is earned on $1,060. Similarly the bank paying the interest will incur interest on interest."
+    },
+    {
+        "id": 249,
+        "term": "compound journal entry",
+        "definition": "A journal entry with more than the minimum of one debit and one credit. Example: a debit to Cash of $500 and a credit to Sales of $475 and a credit to Sales Tax Payable of $25."
+    },
+    {
+        "id": 250,
+        "term": "comprehensive income",
+        "definition": "Comprehensive income consists of two components:\n\n\t• Net income (or loss) from the income statement, and\n\n\t• Other comprehensive income (some additional items that are not reported on the income statement).\n\nOther comprehensive income includes the following:\n\n\t• Unrealized gains/losses on some investment securities and financial instruments.\n\n• Foreign currency translation adjustments\n\n• Unrealized gains/losses on postretirement benefit plans"
+    },
+    {
+        "id": 251,
+        "term": "comptroller",
+        "definition": "The British term for controller."
+    },
+    {
+        "id": 252,
+        "term": "conceptual framework",
+        "definition": "One of the first efforts begun in the 1970s by the Financial Accounting Standards Board to articulate and organize into a cohesive framework all of the accounting rules that had been developed in the past. It was hoped that future accounting rules would evolve from this framework."
+    },
+    {
+        "id": 253,
+        "term": "condensed balance sheet",
+        "definition": "A highly summarized balance sheet."
+    },
+    {
+        "id": 254,
+        "term": "condensed financial statements",
+        "definition": "Financial statements (such as the income statement and balance sheet) that summarize much of the detail into a few major lines of information."
+    },
+    {
+        "id": 255,
+        "term": "condensed income statement",
+        "definition": "A highly summarized income statement."
+    },
+    {
+        "id": 256,
+        "term": "conformity rule",
+        "definition": "See inventory conformity rule."
+    },
+    {
+        "id": 257,
+        "term": "conservatism",
+        "definition": "This accounting guideline states that if doubt exists between two acceptable alternatives (in other words the accountant needs to break a tie), the accountant should choose the alternative that will result in a lesser asset amount and/or a lesser profit. A classic example is inventory where the net realizable value (NRV) is less than the actual cost. The accountant must decide whether to leave the inventory at cost or to reduce the inventory amount to its NRV. Conservatism directs the accountant to reduce the inventory to the lower amount (NRV). This results in a lower asset amount and a debit to an income statement account, such as Loss from Reducing Inventory to LCM."
+    },
+    {
+        "id": 258,
+        "term": "consigned goods",
+        "definition": "Merchandise that is not owned by the party in possession of the goods. For example, a craftsperson might have produced 100 ornate wood items. In order to sell the items, the person asks a local merchant to take five of the items on consignment. This means that the merchant has possession of the five items and will attempt to sell them for a commission, but the merchant does not own the items. Those five items are consigned goods. (When the merchant sells one of the items, the merchant might be required to remit 80% of the selling price to the craftspersons and can keep 20% as a commission.) The merchant is the consignee and the craftsperson is the consignor."
+    },
+    {
+        "id": 259,
+        "term": "consignee",
+        "definition": "The party receiving goods to be sold. See consigned goods."
+    },
+    {
+        "id": 260,
+        "term": "consignment",
+        "definition": "Sending merchandise to another party (an agent, consignee) in order to sell the merchandise. Also see consigned goods."
+    },
+    {
+        "id": 261,
+        "term": "consignor",
+        "definition": "The party who delivered its goods to another party (consignee). The objective is for consignee to sell the goods for the consignor. "
+    },
+    {
+        "id": 262,
+        "term": "consistency",
+        "definition": "A quality of accounting information that facilitates comparing a company’s reporting of one accounting period to another. For example, the reader of a company’s financial statements can assume that the company is using the same inventory cost flow assumption this period as it used last period or last year. (If the company did change, it must be disclosed to the reader.)"
+    },
+    {
+        "id": 263,
+        "term": "consolidated financial statements",
+        "definition": "Financial statements that reflect the total economic entity. For example, on a consolidated income statement a corporation having several subsidiaries would report the total of all of its companies’ sales that were made to customers outside of its group. (Sales to companies within its group of related companies would be excluded as well as the purchases within its group.) A consolidated balance sheet would report the combined assets except for claims against companies within its group. Liabilities would be combined except for amounts owed to companies within its group."
+    },
+    {
+        "id": 264,
+        "term": "constant-dollar",
+        "definition": "A dollar adjusted for inflation. If an asset such as land was purchased for $10,000 many years ago when the consumer price index (CPI) was 100 and today the CPI is 400, today’s constant-dollar amount would be $40,000. However, generally accepted accounting principles (specifically the monetary unit assumption) assumes that the CPI is unchanging. Therefore the land will be reported at its original, unadjusted amount of $10,000."
+    },
+    {
+        "id": 265,
+        "term": "constraints",
+        "definition": "In financial accounting this term often refers to the accounting guidelines or principles of conservatism and materiality."
+    },
+    {
+        "id": 266,
+        "term": "construction work-in-progress",
+        "definition": "This is a long term asset account that accumulates the cost of a project that has not yet been placed into service. When the project is finished and placed into the service, the cost is removed from this account and is recorded in a plant asset account."
+    },
+    {
+        "id": 267,
+        "term": "consumer price index",
+        "definition": "A government index that tracks the changes in prices in order to measure general inflation. This index can be used by small companies to obtain the benefits of LIFO without tracking individual units in inventory. "
+    },
+    {
+        "id": 268,
+        "term": "contingent gain",
+        "definition": "A potential gain that is not recognized by accountants in the financial statements until it actually occurs. For example, Company P is suing Company D over a patent infringement. Company P has a contingent gain. Because of conservatism, accountants usually do not report or disclose contingent gains (but will report or disclose contingent losses)."
+    },
+    {
+        "id": 269,
+        "term": "contingent liability",
+        "definition": "A potential liability dependent upon some future event occurring or not occurring. For example, a company is named as a defendant in a $1 million lawsuit. Does that mean the company automatically has a liability of $1 million? What if the lawsuit has no merit and can easily be defended? If it is probable that the company will lose and the amount can be estimated, a journal entry is prepared to debit Loss from Lawsuit and to credit Lawsuit Payable. If it is possible but not probable that the company will lose, the journal entry is not made but instead there will be a footnote disclosure. If the lawsuit is remote (a nuisance suit without any merit), there is no need for a journal entry and no need to disclose the lawsuit. Accountants usually consider product warranties to be a contingent liability that is both probable and can be estimated and is therefore recorded with a journal entry."
+    },
+    {
+        "id": 270,
+        "term": "contingent loss",
+        "definition": "A potential loss that is dependent upon some future event occurring or not occurring. If the loss is probable and the amount can be estimated, then the loss and a liability are recorded with a journal entry. If the loss is only reasonably possible (not probable), then a journal entry is not recorded but a disclosure should be made in the notes to the financial statements. If the loss is remote, then neither a journal entry nor a disclosure is required."
+    },
+    {
+        "id": 271,
+        "term": "continuing operations",
+        "definition": "The operating activities of a company, excluding the major segments of the company that are being discontinued."
+    },
+    {
+        "id": 272,
+        "term": "continuous budget",
+        "definition": "See rolling budget."
+    },
+    {
+        "id": 273,
+        "term": "contra account",
+        "definition": "An account with a balance that is the opposite of the normal balance. For example, Accumulated Depreciation is a contra asset account, because its credit balance is contra to the debit balance for an asset account. Another example is the owner’s drawing account. This is an owner’s equity account and as such you would expect a credit balance. However, the drawing account has a debit balance. Other examples include (1) the allowance for doubtful accounts, (2) discount on bonds payable, (3) sales returns and allowances, and (4) sales discounts. The contra accounts cause a reduction in the amounts reported. For example net sales is gross sales minus the sales returns, the sales allowances, and the sales discounts. The net realizable value of the accounts receivable is the accounts receivable minus the allowance for doubtful accounts."
+    },
+    {
+        "id": 274,
+        "term": "contra asset account",
+        "definition": "An asset account which is expected to have a credit balance (which is contrary to the normal debit balance of an asset account). The contra asset account is related to another asset account. For example, the contra asset account Allowance for Doubtful Accounts is related to Accounts Receivable. The contra asset account Accumulated Depreciation is related to a constructed asset(s), and the contra asset account Accumulated Depletion is related to natural resources.\n\nThe net of the asset and its related contra asset account is referred to as the asset’s book value or carrying value."
+    },
+    {
+        "id": 275,
+        "term": "contra equity account",
+        "definition": "An owner’s or stockholders’ equity account with a debit balance instead of the normal credit balance. Examples include the owner’s drawing account, a dividend account, and the treasury stock account."
+    },
+    {
+        "id": 276,
+        "term": "contra expense account",
+        "definition": "An expense account which is expected to have a credit balance instead of the typical debit balance."
+    },
+    {
+        "id": 277,
+        "term": "contra inventory account",
+        "definition": "A general ledger inventory account that has a credit balance instead of an asset’s usual debit balance. An example is the account Reduction of Inventory to the Net Realizable Value."
+    },
+    {
+        "id": 278,
+        "term": "contra liability account",
+        "definition": "A liability account with a debit balance. Discount on Bonds Payable is a contra account associated with the liability account Bonds Payable."
+    },
+    {
+        "id": 279,
+        "term": "contra owner’s equity account",
+        "definition": "See contra equity account."
+    },
+    {
+        "id": 280,
+        "term": "contra revenues account",
+        "definition": "A revenues account with a debit balance instead of the usual credit balance. Examples include sales returns, sales allowances, and sales discounts."
+    },
+    {
+        "id": 281,
+        "term": "contractual interest rate",
+        "definition": "The interest rate specified or stated in a note payable or in a bond payable. Often this rate is fixed and will not change during the life of the note or bond."
+    },
+    {
+        "id": 282,
+        "term": "contributed capital",
+        "definition": "Sometimes used as a heading in place of paid-in capital."
+    },
+    {
+        "id": 283,
+        "term": "contribution approach income statement",
+        "definition": "An income statement that subtracts all variable costs and expenses from revenues in order to show the contribution margin. From that is subtracted the fixed costs and expenses to arrive at net income. To learn more, see Explanation of Break-even Point."
+    },
+    {
+        "id": 284,
+        "term": "contribution margin",
+        "definition": "The result of subtracting all variable expenses from revenues. It indicates the amount available from sales to cover the fixed expenses and profit."
+    },
+    {
+        "id": 285,
+        "term": "contribution margin per unit",
+        "definition": "Selling price per unit minus variable costs per unit, or revenues per unit minus expenses per unit."
+    },
+    {
+        "id": 286,
+        "term": "contribution margin ratio",
+        "definition": "This ratio indicates the percentage of each sales dollar that is available to cover a company’s fixed expenses and profit. The ratio is calculated by dividing the contribution margin (sales minus all variable expenses) by sales."
+    },
+    {
+        "id": 287,
+        "term": "contributions",
+        "definition": "The revenue classification used by nonprofit organizations to account for the amounts received as donations. It is also an expense classification for the donations made to another nonprofit organization. Contributions may be in the form of cash, securities, other property, as well as unconditional promises to give assets at a later date.\n\nContributions made by a donor without conditions attached are referred to as unrestricted contributions. Contributions with donor-imposed restrictions are either temporarily restricted or permanently restricted."
+    },
+    {
+        "id": 288,
+        "term": "control account",
+        "definition": "A general ledger account containing the correct total amount without containing the details. For example, Accounts Receivable could be a control account in the general ledger. Each day the total of the day’s credit sales and the day’s collections are posted to this account. However, the details involving specific customers’ accounts will be found in a subsidiary ledger."
+    },
+    {
+        "id": 289,
+        "term": "controller",
+        "definition": "The chief accounting officer of a company. This person would head up the accounting department."
+    },
+    {
+        "id": 290,
+        "term": "conversion costs",
+        "definition": "The combination of a manufacturer’s direct labor and factory overhead."
+    },
+    {
+        "id": 291,
+        "term": "convertible bond",
+        "definition": "A bond (long term note) that can be exchanged by the holder for a specified number of shares of stock in the company. The convertibility feature usually allows for the bond to have a lower interest rate when it is issued. The holder of the bond enjoys the potential for a gain if the stock price increases."
+    },
+    {
+        "id": 292,
+        "term": "convertible preferred stock",
+        "definition": "Preferred stock that can be exchanged by the holder for a specified number of shares of common stock of the same company."
+    },
+    {
+        "id": 293,
+        "term": "copyright",
+        "definition": "An exclusive right granted by the federal government to publish and sell various works. In accounting a copyright is recorded at its cost and is reported on the balance sheet as an intangible asset."
+    },
+    {
+        "id": 294,
+        "term": "corporation",
+        "definition": "A legal entity organized under state laws that is considered separate from its owners. Ownership is evidenced by shares of stock."
+    },
+    {
+        "id": 295,
+        "term": "correcting entry",
+        "definition": "A journal entry to correct an erroneous amount previously entered in the general ledger."
+    },
+    {
+        "id": 296,
+        "term": "correlation",
+        "definition": "The relationship between two variables. There can be correlation without a cause-and-effect relationship."
+    },
+    {
+        "id": 297,
+        "term": "COS",
+        "definition": "The acronym for cost of sales or for the cost of services."
+    },
+    {
+        "id": 298,
+        "term": "cost",
+        "definition": "In accounting, cost is defined as the cash amount (or the cash equivalent) given up for an asset. Cost includes all costs necessary to get an asset in place and ready for use. For example, the cost of an item in inventory also includes the item’s freight-in cost. The cost of land includes all costs to get the land ready for its use. Also see cost principle."
+    },
+    {
+        "id": 299,
+        "term": "cost accounting",
+        "definition": "The accounting focused on determining the cost per unit of a manufacturer in order to value inventory and cost of goods sold. It is also used to determine unit costs of items processed in service businesses, such as a bank’s cost to process a check or deposit."
+    },
+    {
+        "id": 300,
+        "term": "cost behavior",
+        "definition": "The change in total costs in response to the change in some activity. For example, some of the costs of owning and operating a vehicle will increase in total with an increase in miles driven. These are referred to as variable costs and include gasoline and tires. Some other costs will not change in total with a reasonable increase in miles driven. These costs are referred to as fixed costs and include insurance and parking. Other costs might be part variable and part fixed. These are referred to as mixed costs and an example might be depreciation."
+    },
+    {
+        "id": 301,
+        "term": "cost center",
+        "definition": "Usually a department within a company that is responsible for its costs but not revenues or profit."
+    },
+    {
+        "id": 302,
+        "term": "cost flow assumption",
+        "definition": "An assumption that determines the order in which costs should flow out of a balance sheet account (e.g. Inventory, Investments, Treasury Stock) when the item is sold. For an illustration of the cost flow assumption, see Explanation of Inventory and Cost of Goods Sold."
+    },
+    {
+        "id": 303,
+        "term": "cost method of recording treasury stock",
+        "definition": "The method of accounting for treasury stock whereby the cost of the stock that is repurchased by the issuing corporation is recorded and is reported in the contra stockholders’ equity account Treasury Stock."
+    },
+    {
+        "id": 304,
+        "term": "cost object",
+        "definition": "A cost object is often a product or department for which costs are accumulated or measured. For example, a product is the cost object for direct materials, direct labor and manufacturing overhead. The factory maintenance department is a cost object for the cost of the maintenance employees and the maintenance supplies. Later the factory maintenance department costs will be assigned to products, which are also cost objects.\n\nA cost object can also be a customer, a machine, a group of machines, a group of employees, etc."
+    },
+    {
+        "id": 305,
+        "term": "cost of capital",
+        "definition": "A corporation’s cost of capital is its weighted average after-tax cost of its debt, preferred stock, common stock, retained earnings, and other components of stockholders’ equity. The cost of capital is usually the minimum return that a company should accept on its investments."
+    },
+    {
+        "id": 306,
+        "term": "cost of carrying inventory",
+        "definition": "The incremental cost of storing or holding inventory. It is an annual percentage that includes the cost of rent, insurance, cost of capital, deterioration and obsolescence."
+    },
+    {
+        "id": 307,
+        "term": "cost of goods available for sale",
+        "definition": "This is the sum of the beginning inventory of merchandise plus the net cost of the merchandise purchased including freight-in."
+    },
+    {
+        "id": 308,
+        "term": "cost of goods purchased",
+        "definition": "For a merchandiser this is the cost of merchandise purchased after deducting purchase returns, purchase allowances, and purchase discounts but after adding freight-in."
+    },
+    {
+        "id": 309,
+        "term": "cost of goods sold",
+        "definition": "Cost of goods sold is usually the largest expense on the income statement of a company selling products or goods. Cost of Goods Sold is a general ledger account under the perpetual inventory system.\n\nUnder the periodic inventory system there will not be an account entitled Cost of Goods Sold. Instead, the cost of goods sold is computed as follows: cost of beginning inventory + cost of goods purchased (net of any returns or allowances) + freight-in - cost of ending inventory.\n\nThis account balance or this calculated amount will be matched with the sales amount on the income statement."
+    },
+    {
+        "id": 310,
+        "term": "cost of products sold",
+        "definition": "See cost of goods sold."
+    },
+    {
+        "id": 311,
+        "term": "cost of sales",
+        "definition": "See cost of goods sold."
+    },
+    {
+        "id": 312,
+        "term": "cost principle",
+        "definition": "The accounting guideline requiring amounts in the accounts and on the financial statements to be the actual cost rather than the current value. Accountants can show an amount less than cost due to conservatism, but accountants are generally prohibited from showing amounts greater than cost. (Certain investments will be shown at fair value instead of cost.)"
+    },
+    {
+        "id": 313,
+        "term": "cost ratio",
+        "definition": "In estimating the ending inventory under the retail method the cost ratio is the cost of goods available divided by the retail value of the goods available."
+    },
+    {
+        "id": 314,
+        "term": "cost-volume-profit (CVP)",
+        "definition": "The analysis of how profits change as volume changes. The calculation of the break-even point is a part of cost-volume-profit analysis."
+    },
+    {
+        "id": 315,
+        "term": "coupon bond",
+        "definition": "See bearer bond."
+    },
+    {
+        "id": 316,
+        "term": "CPA",
+        "definition": "See certified public accountant."
+    },
+    {
+        "id": 317,
+        "term": "CPA Exam",
+        "definition": "More formally known as the Uniform CPA Examination. This rigorous, 14-hour, computer-based exam consists of questions developed by the American Institute of Certified Public Accountants. The exam is in English only and application must be made through one of 55 boards of accountancy."
+    },
+    {
+        "id": 318,
+        "term": "cr.",
+        "definition": "The abbreviation of the accounting and bookkeeping term credit."
+    },
+    {
+        "id": 319,
+        "term": "credit (as in debit and credit)",
+        "definition": "To enter an amount on the right side of an account. Normal entries to revenue accounts are credits. Liabilities normally have credit balances."
+    },
+    {
+        "id": 320,
+        "term": "credit (as in debt, not cash)",
+        "definition": "Allowing a person or company to purchase goods or services without paying cash at the time of purchase."
+    },
+    {
+        "id": 321,
+        "term": "credit balance",
+        "definition": "A balance on the right side (credit side) of an account in the general ledger."
+    },
+    {
+        "id": 322,
+        "term": "credit line",
+        "definition": "See line of credit."
+    },
+    {
+        "id": 323,
+        "term": "credit memo",
+        "definition": "A document issued to a customer by a seller which reduces the seller’s accounts receivable and its net sales. It also reduces the buyer’s accounts payable and net purchases.\n\nA document issued by a bank that increases a depositor’s bank balance."
+    },
+    {
+        "id": 324,
+        "term": "credit memorandum",
+        "definition": "See credit memo."
+    },
+    {
+        "id:": 325,
+        "term": "credit sales",
+        "definition": "Sales made on account. Sales where the customer is allowed to pay at a later date. Noncash sales."
+    },
+    {
+        "id": 326,
+        "term": "credit terms",
+        "definition": "The terms which indicate when payment is due for sales made on account (or credit). For example, the credit terms might be 2/10, net 30. This means the amount is due in 30 days; however, if the amount is paid in 10 days a discount of 2% will be permitted. Other terms might be net 10 days, due upon receipt, net 60 days, etc."
+    },
+    {
+        "id": 327,
+        "term": "creditor",
+        "definition": "Someone who has granted credit. If a bank lends a company money, the bank is a creditor. If a supplier sold merchandise to a company on credit, the supplier is a creditor."
+    },
+    {
+        "id": 328,
+        "term": "CSV",
+        "definition": "See cash surrender value."
+    },
+    {
+        "id": 329,
+        "term": "cumulative preferred stock",
+        "definition": "This preferred stock feature that assures the owner that any omitted dividends on this stock will be made up before the common stockholders will receive a dividend. Any omitted dividends on cumulative preferred stock are referred to as dividends in arrears and must be disclosed in the notes to the financial statements."
+    },
+    {
+        "id": 330,
+        "term": "current assets",
+        "definition": "Cash and other resources that are expected to turn to cash or to be used up within one year of the balance sheet date. (If a company’s operating cycle is longer than one year, an item is a current asset if it will turn to cash or be used up within the operating cycle.) Current assets are presented in the order of liquidity, i.e., cash, temporary investments, accounts receivable, inventory, supplies, prepaid insurance."
+    },
+    {
+        "id": 331,
+        "term": "current liabilities",
+        "definition": "Obligations due within one year of the balance sheet date. (If a company’s operating cycle is longer than one year, an item is a current liability if it is due within the operating cycle.) Another condition is that the item will use cash or it will create another current liability. (This means that if a bond payable is due within one year of the balance sheet date, but the bond will be retired by a bond sinking fund (a long-term restricted asset) the bond will not be reported as a current liability.)"
+    },
+    {
+        "id": 332,
+        "term": "current maturity of long-term debt",
+        "definition": "See current portion of long-term debt."
+    },
+    {
+        "id": 333,
+        "term": "current portion of long-term debt",
+        "definition": "The principal portion of an obligation that must be paid within one year of the balance sheet date. For example, if a company has a bank loan of $50,000 that requires monthly interest and principal payments, the next 12 monthly principal payments will be the current portion of the long-term debt. That amount is reported as a current liability and the remaining principal amount is reported as a long-term liability."
+    },
+    {
+        "id": 334,
+        "term": "current ratio",
+        "definition": "The ratio of current assets to current liabilities. This ratio is an indicator of a company’s ability to meet its current obligations."
+    },
+    {
+        "id": 335,
+        "term": "current value",
+        "definition": "The present fair market value."
+    },
+    {
+        "id": 336,
+        "term": "current year’s net income",
+        "definition": "Often this account appears as a line in the retained earnings section of stockholders’ equity (balance sheet) and will show the year-to-date net income. The reason is that some accounting software will not put the current year’s net income into the Retained Earnings account until the accounting year is finished."
+    },
+    {
+        "id": 337,
+        "term": "customer deposits",
+        "definition": "A liability account on the books of a company receiving cash in advance of delivering goods or services to the customer. The entry on the books of the company at the time the money is received in advance is a debit to Cash and a credit to Customer Deposits."
+    },
+    {
+        "id": 338,
+        "term": "CVP",
+        "definition": "See cost-volume-profit (CVP)."
+    },
+    {
+        "id": 339,
+        "term": "cycle counting",
+        "definition": "Spreading the physical counting of inventory throughout the year. For example, a company may physically count a different 10% of its inventory each month instead of counting 100% of its inventory once per year."
     }
 ]
